@@ -7,7 +7,7 @@
 ## 安装
 
 ```bash
-npx skills add addxing/implementation-review
+npx skills add addxing/review-code
 ```
 
 ## 使用
@@ -15,13 +15,13 @@ npx skills add addxing/implementation-review
 通过所用工具的技能机制选择本技能，或在对话中按名称指定。具体调用语法以所用工具为准。
 
 ```text
-使用 implementation-review 技能审查当前实现。
+使用 review-code 技能审查当前实现。
 ```
 
 也可以指定审查范围：
 
 ```text
-使用 implementation-review 技能审查登录功能，重点检查异常处理和状态同步。
+使用 review-code 技能审查登录功能，重点检查异常处理和状态同步。
 ```
 
 ## 审查内容

@@ -1,4 +1,4 @@
-# Implementation Review
+# Review Code
 
 English | [简体中文](README.zh.md)
 
@@ -7,7 +7,7 @@ A concise, general-purpose code review skill for AI coding tools that support Ag
 ## Install
 
 ```bash
-npx skills add addxing/implementation-review
+npx skills add addxing/review-code
 ```
 
 ## Usage
@@ -15,13 +15,13 @@ npx skills add addxing/implementation-review
 Select this skill using your tool’s skill mechanism, or ask for it by name. Invocation syntax varies by tool.
 
 ```text
-Use the implementation-review skill to review the current implementation.
+Use the review-code skill to review the current implementation.
 ```
 
 You can also specify a scope:
 
 ```text
-Use the implementation-review skill to review the login flow, focusing on error handling and state synchronization.
+Use the review-code skill to review the login flow, focusing on error handling and state synchronization.
 ```
 
 ## Review Scope

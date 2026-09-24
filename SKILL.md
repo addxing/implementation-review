@@ -1,5 +1,5 @@
 ---
-name: implementation-review
+name: review-code
 description: 审查当前实现，检查需求遗漏、功能完整性、实现错误、无效代码及其他潜在问题。适用于代码 Review 和实现检查。
 ---
 
