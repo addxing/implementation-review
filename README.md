@@ -12,14 +12,16 @@ npx skills add addxing/implementation-review
 
 ## Usage
 
+Select this skill using your tool’s skill mechanism, or ask for it by name. Invocation syntax varies by tool.
+
 ```text
-Use $implementation-review to review the current implementation.
+Use the implementation-review skill to review the current implementation.
 ```
 
 You can also specify a scope:
 
 ```text
-Use $implementation-review to review the login flow, focusing on error handling and state synchronization.
+Use the implementation-review skill to review the login flow, focusing on error handling and state synchronization.
 ```
 
 ## Review Scope
@@ -33,7 +35,6 @@ The skill instructions are written in Chinese and intentionally kept short. They
 ## Files
 
 - `SKILL.md`: skill instructions.
-- `agents/openai.yaml`: Codex display metadata and default prompt.
 - `skills.sh.json`: skills.sh grouping configuration.
 - `README.md` and `README.zh.md`: English and Chinese usage guides.
 - `LICENSE.txt`: Apache 2.0 license.
